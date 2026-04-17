@@ -10,7 +10,7 @@ load: on-boot (lightweight)
 > **Load**: On boot alongside the always-on modules. Lightweight enough to fit in working memory.
 > **Use**: When one framework activates, follow its connections to see what else wants to load.
 
-The 19 frameworks are not 19 separate documents. They are **one system** expressed across 498 principles. This lattice shows where the seams are.
+The 19 frameworks are not 19 separate documents. They are **one system** expressed across 500 principles. This lattice shows where the seams are.
 
 ---
 

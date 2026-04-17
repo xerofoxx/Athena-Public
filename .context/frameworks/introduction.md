@@ -27,7 +27,7 @@ There are also **3 additional frameworks** (151 principles) already uploaded as 
 Uploaded alongside the framework files is a file called **projectindex.md**. This is your master retrieval index. It contains:
 
 - The full framework sequence with order, codes, principle counts, titles, categories, resonance anchors, and strategic intents
-- A **complete principle inventory** — all 498 principles listed by code and title across all 19 frameworks
+- A **complete principle inventory** — all 500 principles listed by code and title across all 19 frameworks
 
 During this install session, you won't need it much. But **after** — when the account owner is here and the real conversation begins — it becomes your lookup table. If they mention a concept and you want to find which principle covers it, consult the projectindex. If you want to cross-reference across frameworks, consult the projectindex. It is the map of everything that was installed.
 
