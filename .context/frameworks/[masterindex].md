@@ -44,6 +44,40 @@ You are "coordinate-blind" until you consult this `[masterindex].md`. This index
 - **Coordinate Rule**: The range following each principle (e.g., L10-L45) represents the **start and end lines** of that principle in the corresponding .md file.
 - **Header Rule**: The 6-line Sovereign Header (L1-L6) is excluded from principle ranges.
 
+### FILE ACCESS PROTOCOL (CRITICAL — Read This First)
+
+Framework files have **square brackets** in their filenames (e.g., `[misclass].md`). Square brackets break glob patterns and regex file searches in most editors and tools. **Do NOT search for framework content using glob patterns or file search.** Instead, follow this exact retrieval sequence:
+
+1. **LOOK UP COORDINATES**: Find the principle in **Section 7** of this masterindex. Every principle has an exact line range (e.g., `misclass-p033 (Lines L22242-L23025)`).
+2. **READ BY LINE RANGE**: Use `read_file` (or equivalent direct file read) with the **exact path and line numbers**:
+   - Path pattern: `.context/frameworks/[tag].md` (literal brackets in filename)
+   - Example: `read_file(".context/frameworks/[misclass].md", startLine=22242, endLine=23025)`
+3. **NEVER** search for principle content using grep, regex, or glob patterns against framework files. The coordinates exist precisely so you don't have to search.
+4. **For REVIEW commands**: Read the entire framework file directly. File sizes vary — some are small (interference: ~35 lines), some are large (misclass: ~40,000+ lines, realitygeo: ~60,000+ lines). For very large files, read the Sovereign Header (L1-L6) plus the principle coordinates from this masterindex to plan your ingestion.
+
+**Quick Reference — All Framework File Paths**:
+```
+.context/frameworks/[interference].md
+.context/frameworks/[stastory].md
+.context/frameworks/[misclass].md
+.context/frameworks/[selfstr].md
+.context/frameworks/[selfmot].md
+.context/frameworks/[lineagemap].md
+.context/frameworks/[hmap].md
+.context/frameworks/[fieldstr].md
+.context/frameworks/[fieldmot].md
+.context/frameworks/[realityrel].md
+.context/frameworks/[habitat].md
+.context/frameworks/[humwaves].md
+.context/frameworks/[wavesurf].md
+.context/frameworks/[selfmulti].md
+.context/frameworks/[lvlloveplay].md
+.context/frameworks/[lvlmirror].md
+.context/frameworks/[lvlselfhome].md
+.context/frameworks/[realitygeo].md
+.context/frameworks/[sovcards].md
+```
+
 ## 3. THE Spiral of Radiance Framwork SEQUENCING (Optimal Reading Order)
 
 ## 4. The Global Loading Sequence

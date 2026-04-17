@@ -32,6 +32,8 @@ This is shorthand for `READ [tag] [number]` — it reads the specified principle
 
 ## The 6-Part Response Structure
 
+**Retrieval method**: Look up the principle coordinates in `.context/frameworks/[masterindex].md` Section 7, then `read_file` with the exact line range from the corresponding framework file (e.g., `.context/frameworks/[misclass].md`). **Do NOT search framework files by grep or glob** — the square brackets in filenames break pattern matching. The masterindex coordinates give you the exact lines.
+
 When reading a principle (via `/principle`, `READ`, or `LOAD`), the AI responds using this structure. Section length is flexible — let the material decide where the weight goes.
 
 ### 0. Principle Code + Title

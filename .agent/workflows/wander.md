@@ -40,6 +40,8 @@ Format:
 
 ### Step 3: Full 6-Part Metabolisation
 
+**Retrieval method**: Look up the principle coordinates in `[masterindex].md` Section 7, then `read_file` with the exact line range. **Do NOT search framework files by grep or glob** — the square brackets in filenames break pattern matching. The coordinates exist so you can go directly to the content.
+
 Read the chosen principle using the complete 6-part response structure from `Principle_Response_Structure.md`:
 
 0. **Principle Code + Title** — retrieval anchor
