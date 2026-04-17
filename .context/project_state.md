@@ -24,8 +24,8 @@
 5. `Athena_Xero_Orientation.md` — Framework map (all 19 indexed)
 
 ### On-Demand (Deep Dives)
-- `.context/frameworks/[tag].md` — Full principle texts for any of the 19 frameworks
-- `.context/frameworks/[masterindex].md` — Coordinate index for all 498 principles
+- `.context/frameworks/tag.md` — Full principle texts for any of the 19 frameworks
+- `.context/frameworks/masterindex.md` — Coordinate index for all 498 principles
 - `.context/specs/sources/[tag]/index.md` — Framework indexes
 
 ## Quick Start

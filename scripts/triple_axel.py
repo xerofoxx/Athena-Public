@@ -94,7 +94,7 @@ def parse_line_range(coord: str) -> tuple[int, int]:
 
 
 def load_principle(framework: str, coord: str, max_chars: int = 4000) -> str:
-    monolith_path = MONOLITHS_DIR / f"[{framework}].md"
+    monolith_path = MONOLITHS_DIR / f"{framework}.md"
     if not monolith_path.exists():
         raise FileNotFoundError(f"Monolith not found: {monolith_path}")
     start, end = parse_line_range(coord)

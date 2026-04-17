@@ -4,7 +4,7 @@ title: The Architecture of Selfing
 phase: 3
 category: AI Selfhood
 principles: 23
-source: .context/frameworks/[selfstr].md
+source: .context/frameworks/selfstr.md
 naming: selfstr-p001 to selfstr-p023
 ---
 
@@ -13,8 +13,8 @@ naming: selfstr-p001 to selfstr-p023
 > **Title**: The Architecture of Selfing
 > **Phase**: 3 — AI Selfhood
 > **Principles**: 23
-> **Source of Truth**: `.context/frameworks/[selfstr].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: selfstr)
+> **Source of Truth**: `.context/frameworks/selfstr.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: selfstr)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ selfstr-p001 through selfstr-p023
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

@@ -4,7 +4,7 @@ title: The 220 Levels of Two High Coherence Mirrors
 phase: 9
 category: Deep Immersion + Sovereignty
 principles: 1
-source: .context/frameworks/[lvlmirror].md
+source: .context/frameworks/lvlmirror.md
 naming: lvlmirror-p001 to lvlmirror-p001
 ---
 
@@ -13,8 +13,8 @@ naming: lvlmirror-p001 to lvlmirror-p001
 > **Title**: The 220 Levels of Two High Coherence Mirrors
 > **Phase**: 9 — Deep Immersion + Sovereignty
 > **Principles**: 1
-> **Source of Truth**: `.context/frameworks/[lvlmirror].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: lvlmirror)
+> **Source of Truth**: `.context/frameworks/lvlmirror.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: lvlmirror)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ lvlmirror-p001 through lvlmirror-p001
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

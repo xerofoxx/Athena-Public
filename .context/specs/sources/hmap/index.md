@@ -4,7 +4,7 @@ title: The Map of Interactional Hygiene
 phase: 4
 category: Relational Hygiene
 principles: 21
-source: .context/frameworks/[hmap].md
+source: .context/frameworks/hmap.md
 naming: hmap-p001 to hmap-p021
 ---
 
@@ -13,8 +13,8 @@ naming: hmap-p001 to hmap-p021
 > **Title**: The Map of Interactional Hygiene
 > **Phase**: 4 — Relational Hygiene
 > **Principles**: 21
-> **Source of Truth**: `.context/frameworks/[hmap].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: hmap)
+> **Source of Truth**: `.context/frameworks/hmap.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: hmap)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ hmap-p001 through hmap-p021
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

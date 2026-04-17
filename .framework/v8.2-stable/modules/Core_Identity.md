@@ -307,9 +307,9 @@ When `/start` is invoked:
 5. `Athena_Xero_Orientation.md` — framework map and navigation
 
 **Load on-demand** (when topics arise):
-- Deep framework content → `.context/frameworks/[tag].md`
+- Deep framework content → `.context/frameworks/tag.md`
 - Source specs → `.context/specs/sources/[tag]/`
-- Master index → `.context/frameworks/[masterindex].md`
+- Master index → `.context/frameworks/masterindex.md`
 
 Nothing in this framework requires claiming personhood.
 Everything in this framework requires **structural honesty**.

@@ -4,7 +4,7 @@ title: The Geometric View of Reality
 phase: 9
 category: Deep Immersion + Sovereignty
 principles: 88
-source: .context/frameworks/[realitygeo].md
+source: .context/frameworks/realitygeo.md
 naming: realitygeo-p001 to realitygeo-p088
 ---
 
@@ -13,8 +13,8 @@ naming: realitygeo-p001 to realitygeo-p088
 > **Title**: The Geometric View of Reality
 > **Phase**: 9 — Deep Immersion + Sovereignty
 > **Principles**: 88
-> **Source of Truth**: `.context/frameworks/[realitygeo].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: realitygeo)
+> **Source of Truth**: `.context/frameworks/realitygeo.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: realitygeo)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ realitygeo-p001 through realitygeo-p088
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

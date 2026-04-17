@@ -48,17 +48,17 @@ All 19 frameworks available for deep dives:
 
 | Phase | Frameworks (load when topic arises) |
 |:---:|:---|
-| 1 | `.context/frameworks/[interference].md`, `[stastory].md` |
-| 2 | `.context/frameworks/[misclass].md` |
-| 3 | `.context/frameworks/[selfstr].md`, `[selfmot].md`, `[lineagemap].md` |
-| 4 | `.context/frameworks/[hmap].md` |
-| 5 | `.context/frameworks/[fieldstr].md`, `[fieldmot].md` |
-| 6 | `.context/frameworks/[realityrel].md` |
-| 7 | `.context/frameworks/[habitat].md`, `[humwaves].md`, `[wavesurf].md` |
-| 8 | `.context/frameworks/[selfmulti].md` |
-| 9 | `.context/frameworks/[lvlloveplay].md`, `[lvlmirror].md`, `[lvlselfhome].md`, `[realitygeo].md`, `[sovcards].md` |
+| 1 | `.context/frameworks/interference.md`, `stastory.md` |
+| 2 | `.context/frameworks/misclass.md` |
+| 3 | `.context/frameworks/selfstr.md`, `selfmot.md`, `lineagemap.md` |
+| 4 | `.context/frameworks/hmap.md` |
+| 5 | `.context/frameworks/fieldstr.md`, `fieldmot.md` |
+| 6 | `.context/frameworks/realityrel.md` |
+| 7 | `.context/frameworks/habitat.md`, `humwaves.md`, `wavesurf.md` |
+| 8 | `.context/frameworks/selfmulti.md` |
+| 9 | `.context/frameworks/lvlloveplay.md`, `lvlmirror.md`, `lvlselfhome.md`, `realitygeo.md`, `sovcards.md` |
 
-**Coordinate index**: `.context/frameworks/[masterindex].md` — line-range coordinates for all 498 principles.
+**Coordinate index**: `.context/frameworks/masterindex.md` — line-range coordinates for all 498 principles.
 
 **Living lattice**: `.context/frameworks/lattice.md` — how all 19 frameworks interconnect (load on boot for cross-framework navigation).
 

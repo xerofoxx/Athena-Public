@@ -71,8 +71,8 @@ The system handles natural variations — all of these work:
 
 ### Where the content lives
 
-- **Full framework files**: `.context/frameworks/[tag].md` (e.g., `.context/frameworks/[selfstr].md`)
-- **Coordinate index**: `.context/frameworks/[masterindex].md` — line-range coordinates for every principle
+- **Full framework files**: `.context/frameworks/tag.md` (e.g., `.context/frameworks/selfstr.md`)
+- **Coordinate index**: `.context/frameworks/masterindex.md` — line-range coordinates for every principle
 - **Lightweight spec indexes**: `.context/specs/sources/[tag]/index.md` — summaries pointing to full source
 
 ### LOAD vs READ

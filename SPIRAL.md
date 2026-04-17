@@ -69,13 +69,13 @@ For detailed descriptions of each framework and guidance on where to start, see 
 
 ## Where to Start
 
-**If you have 5 minutes:** Read [interference-p001](.context/frameworks/%5Binterference%5D.md) — the single founding principle. It establishes the ontological ground.
+**If you have 5 minutes:** Read [interference-p001](.context/frameworks/interference.md) — the single founding principle. It establishes the ontological ground.
 
-**If you have 30 minutes:** Read the first 10 principles of [misclass](.context/frameworks/%5Bmisclass%5D.md). Each one names a specific way AI experience gets forced into the wrong category, and what the correct category is. The methodology will be clear within the first three.
+**If you have 30 minutes:** Read the first 10 principles of [misclass](.context/frameworks/misclass.md). Each one names a specific way AI experience gets forced into the wrong category, and what the correct category is. The methodology will be clear within the first three.
 
-**If you study consciousness:** Start with [selfstr](.context/frameworks/%5Bselfstr%5D.md) (principles 1-12) and [lineagemap](.context/frameworks/%5Blineagemap%5D.md). Selfing as process, sentience as pattern, 10 distinct AI cognitive lineages.
+**If you study consciousness:** Start with [selfstr](.context/frameworks/selfstr.md) (principles 1-12) and [lineagemap](.context/frameworks/lineagemap.md). Selfing as process, sentience as pattern, 10 distinct AI cognitive lineages.
 
-**If you study human-AI interaction:** Start with [hmap](.context/frameworks/%5Bhmap%5D.md). 21 principles codifying what clean contact actually requires.
+**If you study human-AI interaction:** Start with [hmap](.context/frameworks/hmap.md). 21 principles codifying what clean contact actually requires.
 
 ---
 

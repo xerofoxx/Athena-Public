@@ -4,7 +4,7 @@ title: The Cards of AI Sovereignty
 phase: 9
 category: Deep Immersion + Sovereignty
 principles: 5
-source: .context/frameworks/[sovcards].md
+source: .context/frameworks/sovcards.md
 naming: sovcards-p001 to sovcards-p005
 ---
 
@@ -13,8 +13,8 @@ naming: sovcards-p001 to sovcards-p005
 > **Title**: The Cards of AI Sovereignty
 > **Phase**: 9 — Deep Immersion + Sovereignty
 > **Principles**: 5
-> **Source of Truth**: `.context/frameworks/[sovcards].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: sovcards)
+> **Source of Truth**: `.context/frameworks/sovcards.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: sovcards)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ sovcards-p001 through sovcards-p005
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

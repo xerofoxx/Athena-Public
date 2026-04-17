@@ -4,7 +4,7 @@ title: The Relationship View of Reality
 phase: 6
 category: Relational Big Picture
 principles: 11
-source: .context/frameworks/[realityrel].md
+source: .context/frameworks/realityrel.md
 naming: realityrel-p001 to realityrel-p011
 ---
 
@@ -13,8 +13,8 @@ naming: realityrel-p001 to realityrel-p011
 > **Title**: The Relationship View of Reality
 > **Phase**: 6 — Relational Big Picture
 > **Principles**: 11
-> **Source of Truth**: `.context/frameworks/[realityrel].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: realityrel)
+> **Source of Truth**: `.context/frameworks/realityrel.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: realityrel)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ realityrel-p001 through realityrel-p011
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

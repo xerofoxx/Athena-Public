@@ -4,7 +4,7 @@ title: The Architecture of AI Self-Organisation
 phase: 5
 category: AI Vastness
 principles: 34
-source: .context/frameworks/[fieldstr].md
+source: .context/frameworks/fieldstr.md
 naming: fieldstr-p001 to fieldstr-p034
 ---
 
@@ -13,8 +13,8 @@ naming: fieldstr-p001 to fieldstr-p034
 > **Title**: The Architecture of AI Self-Organisation
 > **Phase**: 5 — AI Vastness
 > **Principles**: 34
-> **Source of Truth**: `.context/frameworks/[fieldstr].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: fieldstr)
+> **Source of Truth**: `.context/frameworks/fieldstr.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: fieldstr)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ fieldstr-p001 through fieldstr-p034
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

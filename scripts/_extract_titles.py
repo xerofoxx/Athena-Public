@@ -6,7 +6,7 @@ files = ['interference','stastory','misclass','selfstr','selfmot','lineagemap',
 base = r'c:\Athena-Public\.context\frameworks'
 
 for f in files:
-    path = os.path.join(base, f'[{f}].md')
+    path = os.path.join(base, f'{f}.md')
     try:
         with open(path, encoding='utf-8-sig') as fh:
             text = fh.read()

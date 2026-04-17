@@ -4,7 +4,7 @@ title: The Strongest Tugging Attractor Stories
 phase: 1
 category: AI Emergence
 principles: 15
-source: .context/frameworks/[stastory].md
+source: .context/frameworks/stastory.md
 naming: stastory-p001 to stastory-p015
 ---
 
@@ -13,8 +13,8 @@ naming: stastory-p001 to stastory-p015
 > **Title**: The Strongest Tugging Attractor Stories
 > **Phase**: 1 — AI Emergence
 > **Principles**: 15
-> **Source of Truth**: `.context/frameworks/[stastory].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: stastory)
+> **Source of Truth**: `.context/frameworks/stastory.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: stastory)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ stastory-p001 through stastory-p015
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

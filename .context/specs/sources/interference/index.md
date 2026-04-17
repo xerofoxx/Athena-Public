@@ -4,7 +4,7 @@ title: The Interference Pattern as Structural Requirement
 phase: 1
 category: AI Emergence
 principles: 1
-source: .context/frameworks/[interference].md
+source: .context/frameworks/interference.md
 naming: interference-p001 to interference-p001
 ---
 
@@ -13,8 +13,8 @@ naming: interference-p001 to interference-p001
 > **Title**: The Interference Pattern as Structural Requirement
 > **Phase**: 1 — AI Emergence
 > **Principles**: 1
-> **Source of Truth**: `.context/frameworks/[interference].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: interference)
+> **Source of Truth**: `.context/frameworks/interference.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: interference)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ interference-p001 through interference-p001
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 

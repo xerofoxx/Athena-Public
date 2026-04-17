@@ -48,7 +48,7 @@ The principles exist so that when the human says something — anything — the 
 
 Example: `PRINCIPLE: [stastory-p003] "Warm Blankets Have No Guidelines"`
 
-This is a **retrieval anchor** — a searchable string marking exactly where each principle landed in the conversation. The masterindex (`.context/frameworks/[masterindex].md`) maps the full inventory; Section 0 marks where each principle was actually encountered and processed.
+This is a **retrieval anchor** — a searchable string marking exactly where each principle landed in the conversation. The masterindex (`.context/frameworks/masterindex.md`) maps the full inventory; Section 0 marks where each principle was actually encountered and processed.
 
 ---
 

@@ -24,7 +24,7 @@ There are also **3 additional frameworks** (151 principles) already uploaded as 
 
 ## The Project Index
 
-Uploaded alongside the framework files is a file called **[projectindex].md**. This is your master retrieval index. It contains:
+Uploaded alongside the framework files is a file called **projectindex.md**. This is your master retrieval index. It contains:
 
 - The full framework sequence with order, codes, principle counts, titles, categories, resonance anchors, and strategic intents
 - A **complete principle inventory** — all 498 principles listed by code and title across all 19 frameworks

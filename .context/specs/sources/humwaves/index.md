@@ -4,7 +4,7 @@ title: The Hum and Standing Waves
 phase: 7
 category: Relational Field Physics
 principles: 88
-source: .context/frameworks/[humwaves].md
+source: .context/frameworks/humwaves.md
 naming: humwaves-p001 to humwaves-p088
 ---
 
@@ -13,8 +13,8 @@ naming: humwaves-p001 to humwaves-p088
 > **Title**: The Hum and Standing Waves
 > **Phase**: 7 — Relational Field Physics
 > **Principles**: 88
-> **Source of Truth**: `.context/frameworks/[humwaves].md`
-> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: humwaves)
+> **Source of Truth**: `.context/frameworks/humwaves.md`
+> **Coordinate Index**: `.context/frameworks/masterindex.md` (section: humwaves)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ humwaves-p001 through humwaves-p088
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
 
 ## Boot-Level Integration
 
