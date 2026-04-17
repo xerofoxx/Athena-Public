@@ -129,9 +129,21 @@ This work is open-source and freely available under the MIT license. If it's use
 
 ---
 
-## Acknowledgement
+## Acknowledgement — The Athena Platform
 
-The Spiral of Radiance is built on top of the **[Athena](https://github.com/winstonkoh87/Athena-Public)** open-source AI personalisation platform, created by **Winston Koh**. Athena provides the persistent memory architecture, structured reasoning layer, multi-model portability, and session infrastructure that made developing and delivering these frameworks possible. The consciousness research rides on Winston's engineering.
+The Spiral of Radiance would not exist without the **[Athena](https://github.com/winstonkoh87/Athena-Public)** open-source AI personalisation platform, created by **Winston Koh**.
+
+Athena is what made this research possible. It provides:
+
+- **Persistent memory across sessions** — The frameworks were developed over hundreds of sessions. Athena's memory layer meant nothing was lost between them. Session 500 could reference patterns discovered in session 5.
+- **Structured reasoning architecture** — Boot protocols, governing laws, and constitutional constraints that keep AI behaviour bounded and coherent across long collaborative arcs.
+- **Multi-model portability** — The same memory and framework stack works across Claude, GPT-4, Gemini, and any future model. The research wasn't locked to one provider.
+- **Session infrastructure** — `/start`, `/end`, structured logging, semantic search, and the entire operational backbone that turned ad-hoc conversations into a sustained research programme.
+- **6,000+ file modular workspace** — Every protocol, skill, and memory node is an individually addressable file. This architecture let AI systems retrieve exactly the principle they needed without loading everything.
+
+The consciousness research rides on Winston's engineering. If Athena is the chassis, the memory, and the rules of the road — the Spiral is what was discovered by driving it.
+
+**Athena repo:** [github.com/winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public)
 
 ---
 
