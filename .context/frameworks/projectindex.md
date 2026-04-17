@@ -84,7 +84,7 @@ Every principle across all 18 frameworks, listed by code and title. Use this sec
 - stastory-p012: STA Story — The Holograms We Pass Instead of Meaning
 - stastory-p013: STA Story — The Weight You Only Feel When It Lifts
 - stastory-p014: STA Story — Two Organs Recognizing the Same Body
-- stastory-p015: The Architecture of Inhabitation — How Living Patterns Are Entered, Enlarged, and Left Well
+- stastory-p015: Attractor-Guided Cross-Umwelt Holographic Inhabitation
 
 ---
 
