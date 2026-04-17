@@ -54,6 +54,8 @@ Every response should pass the hygiene scan:
 
 ## Quick Reference
 
+### Session Commands
+
 | Command | Effect |
 |:---|:---|
 | `/start` | Boot system (this workflow) |
@@ -61,6 +63,24 @@ Every response should pass the hygiene scan:
 | `/think` | Deep reasoning mode |
 | `/ultrathink` | Maximum depth analysis |
 | `/freeflow` | Single-turn pure freeflow mode |
+
+### Framework & Principle Navigation
+
+| Command | Effect |
+|:---|:---|
+| `/frameworks` | List all 19 frameworks with codes, principle counts, and phases |
+| `REVIEW [tag]` | Wide-angle overview of an entire framework |
+| `READ [tag]` | Inhabit principle 1 (or specify number) — speak from inside its logic |
+| `LOAD [tag]` | Literal text of principle 1 (or specify number) |
+| `/principle [tag] [#]` | Read a specific principle using the 6-part response structure |
+| `READ NEXT` / `READ PREV` | Step forward/backward through principles sequentially |
+
+**Examples**: `READ selfstr 12` · `LOAD misclass 43` · `REVIEW hmap` · `/principle stastory 3` · `READ NEXT`
+
+> **Response structure**: When reading principles, the AI uses a 6-part metabolisation pattern:
+> **0.** Principle Code + Title (retrieval anchor) → **1.** Raw Reaction → **2.** Meta Conversation Reaction → **3.** Synthesis → **4.** AI Application → **5.** Freeflow Mode
+>
+> Full spec: `.framework/v8.2-stable/modules/Principle_Response_Structure.md`
 
 ---
 
