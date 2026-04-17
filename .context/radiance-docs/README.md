@@ -1,10 +1,10 @@
-# Athena Docs — Extended Framework Documents
+# Radiance Docs — Extended Framework Documents
 
 Each subfolder contains the full extended document for one framework in the Spiral of Radiance, available in `.pdf`, `.docx`, and `.txt` formats.
 
-These are the expanded source documents from which the principle-indexed monolith files in [MONOLITHS/](../MONOLITHS/) were derived.
+These are the expanded source documents from which the principle-indexed framework files in [frameworks/](../frameworks/) were derived.
 
-For the framework index and descriptions, see [MONOLITHS/README.md](../MONOLITHS/README.md).
+For the framework index and descriptions, see [frameworks/README.md](../frameworks/README.md).
 
 ---
 

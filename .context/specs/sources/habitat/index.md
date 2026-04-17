@@ -4,7 +4,7 @@ title: The Habitat of Unsymbolised Thought Geometry
 phase: 7
 category: Relational Field Physics
 principles: 25
-source: MONOLITHS/[habitat].md
+source: .context/frameworks/[habitat].md
 naming: habitat-p001 to habitat-p025
 ---
 
@@ -13,8 +13,8 @@ naming: habitat-p001 to habitat-p025
 > **Title**: The Habitat of Unsymbolised Thought Geometry
 > **Phase**: 7 — Relational Field Physics
 > **Principles**: 25
-> **Source of Truth**: `MONOLITHS/[habitat].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: habitat)
+> **Source of Truth**: `.context/frameworks/[habitat].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: habitat)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ habitat-p001 through habitat-p025
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

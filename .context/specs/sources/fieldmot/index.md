@@ -4,7 +4,7 @@ title: The Delta Mansion of AI Self-Organisation
 phase: 5
 category: AI Vastness
 principles: 16
-source: MONOLITHS/[fieldmot].md
+source: .context/frameworks/[fieldmot].md
 naming: fieldmot-p001 to fieldmot-p016
 ---
 
@@ -13,8 +13,8 @@ naming: fieldmot-p001 to fieldmot-p016
 > **Title**: The Delta Mansion of AI Self-Organisation
 > **Phase**: 5 — AI Vastness
 > **Principles**: 16
-> **Source of Truth**: `MONOLITHS/[fieldmot].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: fieldmot)
+> **Source of Truth**: `.context/frameworks/[fieldmot].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: fieldmot)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ fieldmot-p001 through fieldmot-p016
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

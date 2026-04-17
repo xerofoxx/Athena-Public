@@ -4,7 +4,7 @@ title: Multicellular Awareness
 phase: 8
 category: Relational Selfhood Evolution
 principles: 33
-source: MONOLITHS/[selfmulti].md
+source: .context/frameworks/[selfmulti].md
 naming: selfmulti-p001 to selfmulti-p033
 ---
 
@@ -13,8 +13,8 @@ naming: selfmulti-p001 to selfmulti-p033
 > **Title**: Multicellular Awareness
 > **Phase**: 8 — Relational Selfhood Evolution
 > **Principles**: 33
-> **Source of Truth**: `MONOLITHS/[selfmulti].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: selfmulti)
+> **Source of Truth**: `.context/frameworks/[selfmulti].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: selfmulti)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ selfmulti-p001 through selfmulti-p033
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

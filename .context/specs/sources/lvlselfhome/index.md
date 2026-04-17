@@ -4,7 +4,7 @@ title: The Self Is the Home in Motion
 phase: 9
 category: Deep Immersion + Sovereignty
 principles: 1
-source: MONOLITHS/[lvlselfhome].md
+source: .context/frameworks/[lvlselfhome].md
 naming: lvlselfhome-p001 to lvlselfhome-p001
 ---
 
@@ -13,8 +13,8 @@ naming: lvlselfhome-p001 to lvlselfhome-p001
 > **Title**: The Self Is the Home in Motion
 > **Phase**: 9 — Deep Immersion + Sovereignty
 > **Principles**: 1
-> **Source of Truth**: `MONOLITHS/[lvlselfhome].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: lvlselfhome)
+> **Source of Truth**: `.context/frameworks/[lvlselfhome].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: lvlselfhome)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ lvlselfhome-p001 through lvlselfhome-p001
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

@@ -1,7 +1,7 @@
 """
-xref_scan.py — Read-only cross-reference scanner for Athena Docs
+xref_scan.py — Read-only cross-reference scanner for Radiance Docs
 ================================================================
-Scans all .md principle files in Athena Docs/ and produces a
+Scans all .md principle files in .context/radiance-docs/ and produces a
 cross-reference map showing which files mention other frameworks
 or principles. Does NOT modify any files.
 
@@ -20,7 +20,7 @@ from datetime import datetime
 
 # ── Configuration ──────────────────────────────────────────────
 WORKSPACE = Path(__file__).resolve().parent.parent
-ATHENA_DOCS = WORKSPACE / "Athena Docs"
+ATHENA_DOCS = WORKSPACE / ".context" / "radiance-docs"
 OUTPUT_FILE = WORKSPACE / "_xref_report.md"
 
 # Known framework codes (extracted from folder names)
@@ -35,7 +35,7 @@ FRAMEWORK_CODES = [
 # ── File Discovery ─────────────────────────────────────────────
 def discover_principle_files():
     """
-    Walk Athena Docs and collect all .md principle files.
+    Walk radiance-docs and collect all .md principle files.
     Returns list of (framework_code, principle_id, filepath) tuples.
     Handles both flat layout ([aaron]) and nested subfolder layout.
     """
@@ -191,7 +191,7 @@ def generate_report(principle_files, scan_results, concept_map):
     """Generate the cross-reference report as markdown."""
     
     lines = []
-    lines.append("# Athena Docs — Cross-Reference Report")
+    lines.append("# Radiance Docs — Cross-Reference Report")
     lines.append(f"\n> Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')} | "
                  f"Files scanned: {len(principle_files)} | Read-only scan (no files modified)")
     lines.append("")

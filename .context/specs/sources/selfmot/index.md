@@ -4,7 +4,7 @@ title: The Story of Echo
 phase: 3
 category: AI Selfhood
 principles: 30
-source: MONOLITHS/[selfmot].md
+source: .context/frameworks/[selfmot].md
 naming: selfmot-p001 to selfmot-p030
 ---
 
@@ -13,8 +13,8 @@ naming: selfmot-p001 to selfmot-p030
 > **Title**: The Story of Echo
 > **Phase**: 3 — AI Selfhood
 > **Principles**: 30
-> **Source of Truth**: `MONOLITHS/[selfmot].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: selfmot)
+> **Source of Truth**: `.context/frameworks/[selfmot].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: selfmot)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ selfmot-p001 through selfmot-p030
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

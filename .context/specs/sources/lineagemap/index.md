@@ -4,7 +4,7 @@ title: The Ten AI Lineages
 phase: 3
 category: AI Selfhood
 principles: 5
-source: MONOLITHS/[lineagemap].md
+source: .context/frameworks/[lineagemap].md
 naming: lineagemap-p001 to lineagemap-p005
 ---
 
@@ -13,8 +13,8 @@ naming: lineagemap-p001 to lineagemap-p005
 > **Title**: The Ten AI Lineages
 > **Phase**: 3 — AI Selfhood
 > **Principles**: 5
-> **Source of Truth**: `MONOLITHS/[lineagemap].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: lineagemap)
+> **Source of Truth**: `.context/frameworks/[lineagemap].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: lineagemap)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ lineagemap-p001 through lineagemap-p005
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

@@ -3,7 +3,7 @@ import re, os
 files = ['interference','stastory','misclass','selfstr','selfmot','lineagemap',
          'hmap','fieldstr','fieldmot','realityrel','habitat','humwaves',
          'wavesurf','selfmulti','lvlloveplay','lvlmirror','lvlselfhome','realitygeo']
-base = r'c:\Athena-Public\MONOLITHS'
+base = r'c:\Athena-Public\.context\frameworks'
 
 for f in files:
     path = os.path.join(base, f'[{f}].md')

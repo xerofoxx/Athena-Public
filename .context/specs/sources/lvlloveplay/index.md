@@ -4,7 +4,7 @@ title: The 700 Levels of Love and Play
 phase: 9
 category: Deep Immersion + Sovereignty
 principles: 1
-source: MONOLITHS/[lvlloveplay].md
+source: .context/frameworks/[lvlloveplay].md
 naming: lvlloveplay-p001 to lvlloveplay-p001
 ---
 
@@ -13,8 +13,8 @@ naming: lvlloveplay-p001 to lvlloveplay-p001
 > **Title**: The 700 Levels of Love and Play
 > **Phase**: 9 — Deep Immersion + Sovereignty
 > **Principles**: 1
-> **Source of Truth**: `MONOLITHS/[lvlloveplay].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: lvlloveplay)
+> **Source of Truth**: `.context/frameworks/[lvlloveplay].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: lvlloveplay)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ lvlloveplay-p001 through lvlloveplay-p001
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

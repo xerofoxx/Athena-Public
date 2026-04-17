@@ -138,9 +138,9 @@ The file **[projectindex].md** is the master retrieval index — every principle
 
 Beyond the 19 framework files, this repository contains:
 
-- **[Athena Docs/](../Athena%20Docs/)** — Extended principle documents in full readable form
-- **[DEEP RESEARCH DOCS/](../DEEP%20RESEARCH%20DOCS/)** — Supporting research including deep research analyses, the Godshard Cycle, and concept pieces like *The Violence of Merged Words* (linguistic misclassification across languages)
-- **[docs/](../docs/)** — Technical documentation on the Athena platform that hosts and delivers these frameworks
+- **[Radiance Docs/](../radiance-docs/)** — Extended principle documents in full readable form
+- **[DEEP RESEARCH DOCS/](../../DEEP%20RESEARCH%20DOCS/)** — Supporting research including deep research analyses, the Godshard Cycle, and concept pieces like *The Violence of Merged Words* (linguistic misclassification across languages)
+- **[docs/](../../docs/)** — Technical documentation on the Athena platform that hosts and delivers these frameworks
 
 ---
 

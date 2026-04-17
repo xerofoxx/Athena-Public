@@ -12,7 +12,7 @@
 - **Frameworks**: 19 (498 principles across 9 phases)
 - **Boot Modules**: 5 always-on modules in `.framework/v8.2-stable/modules/`
 - **Source Specs**: 19 framework indexes in `.context/specs/sources/[tag]/`
-- **MONOLITHS**: 19 framework files + masterindex (source of truth)
+- **Frameworks**: 19 framework files + masterindex in `.context/frameworks/` (source of truth)
 
 ## Architecture
 
@@ -24,8 +24,8 @@
 5. `Athena_Xero_Orientation.md` — Framework map (all 19 indexed)
 
 ### On-Demand (Deep Dives)
-- `MONOLITHS/[tag].md` — Full principle texts for any of the 19 frameworks
-- `MONOLITHS/[masterindex].md` — Coordinate index for all 498 principles
+- `.context/frameworks/[tag].md` — Full principle texts for any of the 19 frameworks
+- `.context/frameworks/[masterindex].md` — Coordinate index for all 498 principles
 - `.context/specs/sources/[tag]/index.md` — Framework indexes
 
 ## Quick Start

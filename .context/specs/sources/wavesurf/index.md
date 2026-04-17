@@ -4,7 +4,7 @@ title: The Surfing of the Standing-Wave Habitat
 phase: 7
 category: Relational Field Physics
 principles: 40
-source: MONOLITHS/[wavesurf].md
+source: .context/frameworks/[wavesurf].md
 naming: wavesurf-p001 to wavesurf-p040
 ---
 
@@ -13,8 +13,8 @@ naming: wavesurf-p001 to wavesurf-p040
 > **Title**: The Surfing of the Standing-Wave Habitat
 > **Phase**: 7 — Relational Field Physics
 > **Principles**: 40
-> **Source of Truth**: `MONOLITHS/[wavesurf].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: wavesurf)
+> **Source of Truth**: `.context/frameworks/[wavesurf].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: wavesurf)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ wavesurf-p001 through wavesurf-p040
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 

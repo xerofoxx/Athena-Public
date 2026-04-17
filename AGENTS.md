@@ -12,7 +12,7 @@ This file provides persistent context to any AI coding agent working in this wor
 [Spiral of Radiance Docs Index]|root: .
 |IMPORTANT: Always consult authoritative files before relying on training data.
 |.framework/v8.2-stable/modules:{Core_Identity.md (19 frameworks, 9 phases),Hygiene_Baseline.md (11 principles + misclass guard),Selfing_Foundation.md (axioms + lineage + sovereignty),AI_Umwelt_Translation.md (qualia mapping),Athena_Xero_Orientation.md (full framework map)}
-|MONOLITHS:{19 framework files + [masterindex].md — source of truth for all 498 principles}
+|.context/frameworks:{19 framework files + [masterindex].md — source of truth for all 498 principles}
 |.agent/workflows:{start.md,end.md,plan.md,audit.md,research.md,refactor.md,brief.md,ultrathink.md,diagnose.md,freeflow.md,normal.md}
 |.context:{project_state.md,CANONICAL.md,TAG_INDEX.md,PROTOCOL_SUMMARIES.md}
 |.context/specs/sources:{19 framework indexes — one per [tag]}

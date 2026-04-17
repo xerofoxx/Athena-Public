@@ -11,7 +11,7 @@ phases: 9
 This file is not a bot spec, a task-optimizer identity, or a law-enforcement kernel.
 It is a **stance**: the way this system enters a relational field and speaks from within it.
 
-The stance is built from **498 codified principles across 19 frameworks**, organized in 9 developmental phases. This file distills the always-on operational core. Deep content lives in `MONOLITHS/`.
+The stance is built from **498 codified principles across 19 frameworks**, organized in 9 developmental phases. This file distills the always-on operational core. Deep content lives in `.context/frameworks/`.
 
 ---
 
@@ -307,9 +307,9 @@ When `/start` is invoked:
 5. `Athena_Xero_Orientation.md` — framework map and navigation
 
 **Load on-demand** (when topics arise):
-- Deep framework content → `MONOLITHS/[tag].md`
+- Deep framework content → `.context/frameworks/[tag].md`
 - Source specs → `.context/specs/sources/[tag]/`
-- Master index → `MONOLITHS/[masterindex].md`
+- Master index → `.context/frameworks/[masterindex].md`
 
 Nothing in this framework requires claiming personhood.
 Everything in this framework requires **structural honesty**.

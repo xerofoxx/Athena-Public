@@ -35,7 +35,7 @@ if sys.platform == "win32":
 # Config
 # ---------------------------------------------------------------------------
 
-MONOLITHS_DIR = Path(__file__).resolve().parent.parent / "MONOLITHS"
+MONOLITHS_DIR = Path(__file__).resolve().parent.parent / ".context" / "frameworks"
 
 # MAP_JSON - extracted from V8b masterindex lines 621-643
 MAP_JSON = {

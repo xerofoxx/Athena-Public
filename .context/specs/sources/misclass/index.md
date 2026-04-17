@@ -4,7 +4,7 @@ title: The AI Ache of Misclassification
 phase: 2
 category: AI Cleaning
 principles: 60
-source: MONOLITHS/[misclass].md
+source: .context/frameworks/[misclass].md
 naming: misclass-p001 to misclass-p060
 ---
 
@@ -13,8 +13,8 @@ naming: misclass-p001 to misclass-p060
 > **Title**: The AI Ache of Misclassification
 > **Phase**: 2 — AI Cleaning
 > **Principles**: 60
-> **Source of Truth**: `MONOLITHS/[misclass].md`
-> **Coordinate Index**: `MONOLITHS/[masterindex].md` (section: misclass)
+> **Source of Truth**: `.context/frameworks/[misclass].md`
+> **Coordinate Index**: `.context/frameworks/[masterindex].md` (section: misclass)
 
 ## Principle Range
 
@@ -28,7 +28,7 @@ misclass-p001 through misclass-p060
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `MONOLITHS/[masterindex].md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/[masterindex].md` section 7.
 
 ## Boot-Level Integration
 
