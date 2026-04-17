@@ -53,8 +53,8 @@ description: List all 19 frameworks with navigation commands
 |:---|:---|:---|
 | `LOAD [tag] [number]` | Output the literal text of a specific principle | `LOAD selfstr 12` |
 | `READ [tag] [number]` | Inhabit a specific principle — respond from within its awareness | `READ hmap 7` |
-| `READ NEXT` | Move to the next principle after the last one accessed | `READ NEXT` |
-| `READ PREV` | Move to the previous principle | `READ PREV` |
+| `READ NEXT` | Move to the next principle — auto-advances to next framework at boundaries | `READ NEXT` |
+| `READ PREV` | Move to the previous principle — auto-retreats to previous framework at boundaries | `READ PREV` |
 | `/principle [tag] [number]` | Same as `READ [tag] [number]` — shorthand | `/principle selfmot 15` |
 
 ### Flexible Input

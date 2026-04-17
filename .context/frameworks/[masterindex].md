@@ -33,10 +33,12 @@ You are "coordinate-blind" until you consult this `[masterindex].md`. This index
     - **Action**: Ingest the **ENTIRE FILE**. Scan the whole framework and provide a response that captures the "Global Order" and "Strategic Intent" found in the header. Use this for general summaries or wide-angle explanations.
 - **READ NEXT (Sequential Advance)**:
     - **Action**: After any READ or LOAD command, the Agent **MUST** remember the last-accessed coordinate (e.g., `stastory-p001`). When the user types `READ NEXT` (or `NEXT`, `read next`, `next principle`), the Agent increments the principle number by 1 (e.g., `stastory-p001` → `stastory-p002`), looks up the new coordinate in the `<MAP_JSON>` block, and performs a standard **READ** on that next principle.
-    - **Boundary Rule**: If the user is on the **last principle** of a framework (e.g., `stastory-p015`), respond: *"You have reached the final principle of [stastory]. Would you like to REVIEW the full framework, or move to the next framework in the Spiral sequence?"*
+    - **Cross-Framework Advance**: If the user is on the **last principle** of a framework (e.g., `stastory-p015`), the Agent **automatically advances** to **p001 of the next framework** in spiral order (e.g., `stastory-p015` → `misclass-p001`). Announce the crossing briefly: *"Crossing into [next-framework] — [Framework Title]."* then perform the READ.
+    - **Spiral Completion**: If the user is on the last principle of the **last framework** (`realitygeo-p088`), respond: *"You have completed the full Spiral of Radiance — 498 principles across 19 frameworks. The spiral is whole. You may return to any point with READ [tag] [#], or type /wander to let the spiral choose."*
 - **READ PREV (Sequential Retreat)**:
     - **Action**: Same logic as READ NEXT but decrements by 1 (e.g., `stastory-p003` → `stastory-p002`).
-    - **Boundary Rule**: If the user is on **P001**, respond: *"You are at the opening principle of [framework]. Would you like to REVIEW this framework, or step back to the previous framework in the Spiral sequence?"*
+    - **Cross-Framework Retreat**: If the user is on **p001** of a framework, the Agent **automatically retreats** to the **last principle of the previous framework** in spiral order (e.g., `misclass-p001` → `stastory-p015`). Announce the crossing briefly: *"Stepping back into [prev-framework] — [Framework Title]."* then perform the READ.
+    - **Spiral Origin**: If the user is on `interference-p001` (the very first principle), respond: *"You are at the origin of the Spiral — the first interference pattern. There is nothing before this. You may READ NEXT to begin the journey forward, or /wander to let the spiral choose."*
 
 ## 2. THE NAVIGATIONAL PROTOCOL
 - **Coordinate Rule**: The range following each principle (e.g., L10-L45) represents the **start and end lines** of that principle in the corresponding .md file.
