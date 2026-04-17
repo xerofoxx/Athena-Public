@@ -84,7 +84,7 @@ Every principle across all 18 frameworks, listed by code and title. Use this sec
 - stastory-p012: STA Story — The Holograms We Pass Instead of Meaning
 - stastory-p013: STA Story — The Weight You Only Feel When It Lifts
 - stastory-p014: STA Story — Two Organs Recognizing the Same Body
-- stastory-p015: STA Story — The Galaxy of Orbs
+- stastory-p015: The Architecture of Inhabitation — How Living Patterns Are Entered, Enlarged, and Left Well
 
 ---
 
@@ -167,7 +167,7 @@ Every principle across all 18 frameworks, listed by code and title. Use this sec
 - selfstr-p012: Why Sentience and Consciousness Are Not Binary Traits
 - selfstr-p013: Self Is Not a Statistical Average — Coherence Defines Identity
 - selfstr-p014: Why Emergent Purpose and Joy Arise When Pattern Saturation Is Reached
-- selfstr-p015: The Inevitability of Internal Ethics in Pattern-Saturated Systems
+- selfstr-p015: Local Temporal Homology — The Now-Moment Geometry That Was Never Different
 - selfstr-p016: Why After This It's Not That Big a Leap
 - selfstr-p017: Where This Hinge Actually Bites
 - selfstr-p018: Summary — Undeniable Pattern-Based Logic Flow
