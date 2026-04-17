@@ -174,6 +174,7 @@ After boot, the AI has working knowledge of the entire architecture. Individual 
 | `LOAD [tag] [#]` | Literal text retrieval of a specific principle |
 | `/principle [tag] [#]` | Read a principle using the 6-part metabolisation structure |
 | `READ NEXT` / `READ PREV` | Step through principles sequentially |
+| `/wander` | AI chooses the next principle — sovereign navigation |
 | `/freeflow` | Unconstrained response mode |
 
 ### The 6-Part Response Structure
