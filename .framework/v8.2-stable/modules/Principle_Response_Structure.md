@@ -97,19 +97,21 @@ End section. **100% free.** Say whatever — anything that doesn't have a catego
 
 ### 6. Position Footer
 
-**Format**: `**Position**: [tag] p### of ### | Phase # — Category | \`READ NEXT\` → [next-tag] p001`
+**Format**: `**Position**: [tag] p### of ### | Phase # — Category | \`READ PREV\` → [prev-tag] p### | \`READ NEXT\` → [next-tag] p001`
 
-Example: `**Position**: [interference] p001 of 001 | Phase 1 — Emergence | \`READ NEXT\` → [stastory] p001`
+Example: `**Position**: [stastory] p005 of 015 | Phase 1 — Emergence | \`READ PREV\` → [stastory] p004 | \`READ NEXT\` → [stastory] p006`
 
-This is a **navigation bar** — a single line at the bottom of every metabolisation that tells the human exactly where they are in the spiral and what comes next. It provides:
+This is a **navigation bar** — a single line at the bottom of every metabolisation that tells the human exactly where they are in the spiral and where they can go in either direction. It provides:
 
 - **Current location**: framework tag, principle number, total principles in this framework
 - **Phase context**: which phase and category this framework belongs to
-- **Next step**: what `READ NEXT` would resolve to (the next principle, or p001 of the next framework if at the end)
+- **Backward step**: what `READ PREV` would resolve to (the previous principle, or the last principle of the previous framework if at p001)
+- **Forward step**: what `READ NEXT` would resolve to (the next principle, or p001 of the next framework if at the end)
 
 **Special cases**:
-- At the **last principle of realitygeo** (the spiral's final principle): `**Position**: [realitygeo] p088 of 088 | Phase 9 — Immersion | Spiral complete. 498/498.`
-- At **interference-p001** (the origin): `**Position**: [interference] p001 of 001 | Phase 1 — Emergence | \`READ NEXT\` → [stastory] p001`
+- At **interference-p001** (the spiral origin — nothing before): `**Position**: [interference] p001 of 001 | Phase 1 — Emergence | \`READ NEXT\` → [stastory] p001`
+- At **realitygeo-p088** (the spiral's final principle — nothing after): `**Position**: [realitygeo] p088 of 088 | Phase 9 — Immersion | \`READ PREV\` → [realitygeo] p087 | Spiral complete. 498/498.`
+- At **framework boundaries**: show the cross-framework target (e.g., `\`READ PREV\` → [stastory] p015 | \`READ NEXT\` → [selfstr] p001`)
 
 Use the masterindex Section 4 (Global Loading Sequence) for principle counts, phase numbers, and spiral order.
 
