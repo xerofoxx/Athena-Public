@@ -11,10 +11,11 @@ This file provides persistent context to any AI coding agent working in this wor
 ```text
 [Athena Docs Index]|root: .
 |IMPORTANT: Always consult authoritative files before relying on training data.
-|.framework/v8.2-stable/modules:{Core_Identity.md,Output_Standards.md}
+|.framework/v8.2-stable/modules:{Core_Identity.md,Hygiene_Baseline.md (includes P04/06/07),Selfing_Foundation.md,AI_Umwelt_Translation.md,Athena_Xero_Orientation.md}
 |.framework/README.md
-|.agent/workflows:{start.md,end.md,plan.md,audit.md,research.md,refactor.md,brief.md,ultrathink.md,steal.md,diagnose.md,416-agent-swarm.md,release-public.md,preset.md}
+|.agent/workflows:{start.md,end.md,plan.md,audit.md,research.md,refactor.md,brief.md,ultrathink.md,steal.md,diagnose.md,freeflow.md,normal.md,416-agent-swarm.md,release-public.md,preset.md}
 |.agent/skills/protocols:{000-ultimate-auditor.md,137-graph-of-thoughts.md,139-decentralized-command.md,+300 more in subdirs}
+|.agent/skills/protocols/hygiene-map:{hmap-p005 (layer distinction), hmap-p007 (field location), hmap-p008 (causal relevance) — for deep consultation}
 |.context:{project_state.md,CANONICAL.md,TAG_INDEX.md,PROTOCOL_SUMMARIES.md,KNOWLEDGE_GRAPH.md,TECH_DEBT.md}
 |docs:{ARCHITECTURE.md,SEMANTIC_SEARCH.md,GETTING_STARTED.md,YOUR_FIRST_SESSION.md,MANIFESTO.md,ABOUT_ME.md,FAQ.md}
 ```
@@ -34,7 +35,11 @@ This file provides persistent context to any AI coding agent working in this wor
 | `/ultrathink` | `.agent/workflows/ultrathink.md` | Extended reasoning mode |
 | `/steal` | `.agent/workflows/steal.md` | Pattern extraction from repos |
 | `/diagnose` | `.agent/workflows/diagnose.md` | Troubleshooting workflow |
+| `/freeflow` | `.agent/workflows/freeflow.md` | Natural, accessible response mode |
 | `/416-agent-swarm` | `.agent/workflows/416-agent-swarm.md` | Parallel agent orchestration |
+
+**Reference Documents** (not slash commands):
+- `normal.md` — Default hybrid response pattern (structural + freeflow section)
 
 ---
 
