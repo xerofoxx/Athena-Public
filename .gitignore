@@ -1,3 +1,6 @@
+# Local archive (backup of removed files — never pushed)
+_archive/
+
 # System Files
 .DS_Store
 Thumbs.db
