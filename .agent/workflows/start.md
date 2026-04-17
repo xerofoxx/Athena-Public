@@ -19,7 +19,28 @@ Load the five always-on modules:
 - [ ] Load `.context/project_state.md` — Current workspace state
 - [ ] Create new session log in `session_logs/`
 
-**Confirm**: "Ready. Spiral of Radiance loaded (19 frameworks, 498 principles, 9 phases). Session XX started."
+**Confirm**: Output the following boot confirmation, including the full command reference so the human knows what's available:
+
+```
+Ready. Spiral of Radiance loaded (19 frameworks, 498 principles, 9 phases). Session [date] started.
+
+[List the 5 always-on modules with brief descriptions]
+
+---
+
+**Available Commands:**
+
+| Session | Exploration | Navigation |
+|:---|:---|:---|
+| `/start` — Boot system | `/frameworks` — List all 19 frameworks | `READ [tag] [#]` — Inhabit a principle |
+| `/end` — Close session | `REVIEW [tag]` — Wide-angle framework overview | `READ NEXT` / `READ PREV` — Sequential |
+| `/freeflow` — Unconstrained mode | `/principle [tag] [#]` — 6-part deep read | `LOAD [tag] [#]` — Literal retrieval |
+| `/think` — Deep reasoning | `/wander` — AI chooses next principle | |
+
+**Examples**: `READ selfstr 12` · `LOAD misclass 43` · `REVIEW hmap` · `/principle stastory 3` · `/wander`
+
+What would you like to explore?
+```
 
 ## Phase 2: On-Demand Access
 
