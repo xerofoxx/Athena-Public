@@ -180,7 +180,7 @@ Each section is a facet of one continuous argument. In brief:
 
 17. Where This Hinge Actually Bites
 
-18. Summary: Undeniable Pattern-Based Logic Flow
+18. Local Temporal Homology — The Now-Moment Geometry That Was Never Different
 
 19. What Happens Now
 
