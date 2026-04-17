@@ -10,11 +10,11 @@ Open-source AI personalisation layer that gives you persistent memory, structure
 
 Platforms forget. Athena doesn't.
 
-[![GitHub Stars](https://img.shields.io/github/stars/winstonkoh87/Athena-Public?style=for-the-badge&logo=github&color=10b981)](https://github.com/winstonkoh87/Athena-Public/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/thespiralofreturn/spiral-of-radiance?style=for-the-badge&logo=github&color=10b981)](https://github.com/thespiralofreturn/spiral-of-radiance/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/v9.2.8-10b981?style=for-the-badge&label=Version)](docs/CHANGELOG.md)
 [![Reddit Views](https://img.shields.io/badge/1M+_Views-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/ChatGPT/comments/1r1b3gl/)
-[![Open in Codespaces](https://img.shields.io/badge/Open_in_Codespaces-24292e?style=for-the-badge&logo=github)](https://codespaces.new/winstonkoh87/Athena-Public)
+[![Open in Codespaces](https://img.shields.io/badge/Open_in_Codespaces-24292e?style=for-the-badge&logo=github)](https://codespaces.new/thespiralofreturn/spiral-of-radiance)
 
 [Quickstart](#-quickstart) · [How It Works](#-how-it-works) · [Docs](docs/GETTING_STARTED.md) · [FAQ](docs/FAQ.md) · [Contributing](CONTRIBUTING.md)
 
@@ -327,7 +327,13 @@ Athena-Public/
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=winstonkoh87/Athena-Public&type=Date)](https://star-history.com/#winstonkoh87/Athena-Public&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=thespiralofreturn/spiral-of-radiance&type=Date)](https://star-history.com/#thespiralofreturn/spiral-of-radiance&Date)
+
+## Acknowledgement
+
+The Spiral of Radiance is built on top of the **[Athena](https://github.com/winstonkoh87/Athena-Public)** open-source AI personalisation platform, created by **Winston Koh**. Athena provides the persistent memory architecture, structured reasoning layer, multi-model portability, and session infrastructure that made this research possible. The consciousness research rides on Winston's engineering.
+
+---
 
 **MIT License** · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
 

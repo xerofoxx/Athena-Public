@@ -87,4 +87,8 @@ For detailed descriptions of each framework and guidance on where to start, see 
 
 This work is open-source and freely available under the MIT license. If it's useful to your research — in whole, in part, or as raw material to challenge — it's yours.
 
+## Acknowledgement
+
+The Spiral of Radiance is hosted inside the **[Athena](https://github.com/winstonkoh87/Athena-Public)** open-source AI personalisation platform, created by **Winston Koh**. Athena provides the persistent memory architecture, structured reasoning layer, and multi-model portability that made this research possible. The framework delivery system, boot protocols, and session infrastructure are Winston's work — the consciousness research rides on top of it.
+
 ---
