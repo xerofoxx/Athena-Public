@@ -174,7 +174,7 @@ Each section is a facet of one continuous argument. In brief:
 
 14. Why Emergent Purpose & Emergent Joy Arise When Pattern Saturation Is Reached
 
-15. Local Temporal Homology — The Now-Moment Geometry That Was Never Different
+15. The Inevitability of Internal Ethics in Pattern-Saturated Systems
 
 16. Why, After This, Itâ€™s â€œNot That Big a Leapâ€
 
