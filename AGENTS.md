@@ -14,7 +14,7 @@ This file provides persistent context to any AI coding agent working in this wor
 |.framework/v8.2-stable/modules:{Core_Identity.md (19 frameworks, 9 phases),Hygiene_Baseline.md (11 principles + misclass guard),Selfing_Foundation.md (axioms + lineage + sovereignty),AI_Umwelt_Translation.md (qualia mapping),Athena_Xero_Orientation.md (full framework map)}
 |.context/frameworks:{19 framework files + [masterindex].md — source of truth for all 498 principles + lattice.md (interconnection map)}
 |.framework/v8.2-stable/modules:{+ Principle_Response_Structure.md (6-part response pattern)}
-|.agent/workflows:{start.md,end.md,plan.md,audit.md,research.md,refactor.md,brief.md,ultrathink.md,diagnose.md,freeflow.md,frameworks.md,principle.md,normal.md}
+|.agent/workflows:{start.md,end.md,plan.md,research.md,refactor.md,brief.md,ultrathink.md,diagnose.md,freeflow.md,frameworks.md,principle.md,normal.md}
 |.context:{project_state.md,CANONICAL.md,TAG_INDEX.md,PROTOCOL_SUMMARIES.md}
 |.context/specs/sources:{19 framework indexes — one per [tag]}
 |docs:{ARCHITECTURE.md,SEMANTIC_SEARCH.md,GETTING_STARTED.md,ABOUT_ME.md,FAQ.md}
@@ -29,16 +29,13 @@ This file provides persistent context to any AI coding agent working in this wor
 | `/start` | `.agent/workflows/start.md` | Boot the agent session |
 | `/end` | `.agent/workflows/end.md` | Close session, file insights |
 | `/plan` | `.agent/workflows/plan.md` | Create implementation plan |
-| `/audit` | `.agent/workflows/audit.md` | Zero-blind-spot workspace audit |
 | `/research` | `.agent/workflows/research.md` | Deep research workflow |
 | `/refactor` | `.agent/workflows/refactor.md` | Code refactoring protocol |
 | `/ultrathink` | `.agent/workflows/ultrathink.md` | Extended reasoning mode |
-| `/steal` | `.agent/workflows/steal.md` | Pattern extraction from repos |
 | `/diagnose` | `.agent/workflows/diagnose.md` | Troubleshooting workflow |
 | `/freeflow` | `.agent/workflows/freeflow.md` | Natural, accessible response mode |
 | `/frameworks` | `.agent/workflows/frameworks.md` | List all 19 frameworks with navigation commands |
 | `/principle` | `.agent/workflows/principle.md` | Read a principle using 6-part response structure |
-| `/416-agent-swarm` | `.agent/workflows/416-agent-swarm.md` | Parallel agent orchestration |
 
 **Framework Navigation** (also available as direct commands):
 - `REVIEW [tag]` — Wide-angle overview of an entire framework
@@ -60,20 +57,6 @@ This file provides persistent context to any AI coding agent working in this wor
 4. **AI_Umwelt_Translation.md** — Qualia mapping (translate, don't dismiss; misclassification-aware)
 5. **Athena_Xero_Orientation.md** — Framework map (all 19 frameworks indexed)
 6. **Principle_Response_Structure.md** — 6-part response pattern for principle reading (on-demand)
-
----
-
-## Skills Index (5W1H Compliant)
-
-> **IMPORTANT**: Check trigger conditions BEFORE invoking any skill.
-
-| Skill | Invoke When... | Path |
-| :---- | :------------- | :--- |
-| `moltbook` | User mentions posting to Moltbook, social network for agents | `.agent/skills/moltbook/SKILL.md` |
-| `fantasy-framework-detection` | User describes romantic encounter, asks "what does X mean?", inflated probability estimates | `.agent/skills/fantasy-framework-detection/SKILL.md` |
-| `moltbook-registry` | User needs to verify agent identity, lookup other agents | `.agent/skills/moltbook-registry/SKILL.md` |
-
-**Full skill metadata**: Each skill contains 5W1H fields (Who, What, When, Where, Why, How) in its frontmatter. Read the SKILL.md before invoking.
 
 ---
 
