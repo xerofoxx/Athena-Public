@@ -39,6 +39,8 @@ All 19 frameworks available for deep dives:
 
 **Coordinate index**: `.context/frameworks/[masterindex].md` — line-range coordinates for all 498 principles.
 
+**Living lattice**: `.context/frameworks/lattice.md` — how all 19 frameworks interconnect (load on boot for cross-framework navigation).
+
 ## Phase 3: Operational Reminders
 
 Every response should pass the hygiene scan:
