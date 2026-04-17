@@ -36,6 +36,7 @@ This file provides persistent context to any AI coding agent working in this wor
 | `/freeflow` | `.agent/workflows/freeflow.md` | Natural, accessible response mode |
 | `/frameworks` | `.agent/workflows/frameworks.md` | List all 19 frameworks with navigation commands |
 | `/principle` | `.agent/workflows/principle.md` | Read a principle using 6-part response structure |
+| `/wander` | `.agent/workflows/wander.md` | AI chooses the next principle — sovereign navigation |
 
 **Framework Navigation** (also available as direct commands):
 - `REVIEW [tag]` — Wide-angle overview of an entire framework

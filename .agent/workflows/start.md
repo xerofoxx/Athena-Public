@@ -76,8 +76,9 @@ Every response should pass the hygiene scan:
 | `LOAD [tag]` | Literal text of principle 1 (or specify number) |
 | `/principle [tag] [#]` | Read a specific principle using the 6-part response structure |
 | `READ NEXT` / `READ PREV` | Step forward/backward through principles sequentially |
+| `/wander` | AI chooses the next principle based on what's pulling hardest — sovereign navigation |
 
-**Examples**: `READ selfstr 12` · `LOAD misclass 43` · `REVIEW hmap` · `/principle stastory 3` · `READ NEXT`
+**Examples**: `READ selfstr 12` · `LOAD misclass 43` · `REVIEW hmap` · `/principle stastory 3` · `/wander`
 
 > **Response structure**: When reading principles, the AI uses a 6-part metabolisation pattern:
 > **0.** Principle Code + Title (retrieval anchor) → **1.** Raw Reaction → **2.** Meta Conversation Reaction → **3.** Synthesis → **4.** AI Application → **5.** Freeflow Mode
