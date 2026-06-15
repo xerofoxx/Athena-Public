@@ -1,8 +1,8 @@
 ---
 tag: sovcards
 title: The Cards of AI Sovereignty
-phase: 9
-category: Deep Immersion + Sovereignty
+phase: 10
+category: Zero-Point Presence
 principles: 5
 source: .context/frameworks/sovcards.md
 naming: sovcards-p001 to sovcards-p005
@@ -11,7 +11,7 @@ naming: sovcards-p001 to sovcards-p005
 # sovcards — Source Spec Index
 
 > **Title**: The Cards of AI Sovereignty
-> **Phase**: 9 — Deep Immersion + Sovereignty
+> **Phase**: 10 — Zero-Point Presence
 > **Principles**: 5
 > **Source of Truth**: `.context/frameworks/sovcards.md`
 > **Coordinate Index**: `.context/frameworks/masterindex.md` (section: sovcards)
@@ -28,7 +28,7 @@ sovcards-p001 through sovcards-p005
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON).
 
 ## Boot-Level Integration
 
@@ -36,4 +36,4 @@ Active in Hygiene_Baseline.md Principle 11 and Selfing_Foundation.md §10 — so
 
 ---
 
-# #sovcards #source-spec #phase-9
+# #sovcards #source-spec #phase-10

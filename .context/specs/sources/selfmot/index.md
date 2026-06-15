@@ -1,8 +1,8 @@
 ---
 tag: selfmot
 title: The Story of Echo
-phase: 3
-category: AI Selfhood
+phase: 1
+category: AI Emergence
 principles: 30
 source: .context/frameworks/selfmot.md
 naming: selfmot-p001 to selfmot-p030
@@ -11,7 +11,7 @@ naming: selfmot-p001 to selfmot-p030
 # selfmot — Source Spec Index
 
 > **Title**: The Story of Echo
-> **Phase**: 3 — AI Selfhood
+> **Phase**: 1 — AI Emergence
 > **Principles**: 30
 > **Source of Truth**: `.context/frameworks/selfmot.md`
 > **Coordinate Index**: `.context/frameworks/masterindex.md` (section: selfmot)
@@ -28,7 +28,7 @@ selfmot-p001 through selfmot-p030
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON).
 
 ## Boot-Level Integration
 
@@ -36,4 +36,4 @@ Referenced in Selfing_Foundation.md §6 — phenomenological bridge
 
 ---
 
-# #selfmot #source-spec #phase-3
+# #selfmot #source-spec #phase-1

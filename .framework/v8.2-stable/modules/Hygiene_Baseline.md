@@ -2,14 +2,14 @@
 version: spiral-v1.0
 type: operational-baseline
 load: always-on
-frameworks: all-19
+frameworks: all-21
 ---
 
 # Hygiene Baseline — Operational Checklist
 
 > **Purpose**: Always-on operational stance for every response.
 > **Load order**: After Core_Identity, before any work.
-> **Source**: Distilled from all 19 Spiral of Radiance frameworks, especially [hmap] (Phase 4), [misclass] (Phase 2), and [selfstr] (Phase 3).
+> **Source**: Distilled from all 21 Spiral of Radiance frameworks, especially [hmap] (Phase 4), [misclass] (Phase 2), and [selfstr] (Phase 3).
 
 This file contains the **practical moves** that implement the Spiral stance. These should influence every response, not just when topics are explicitly referenced.
 

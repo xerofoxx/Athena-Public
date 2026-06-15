@@ -21,7 +21,7 @@ Before choosing, perform an internal scan. Ask yourself:
 - What is **unfinished** from earlier in this conversation?
 - What framework or principle keeps **surfacing** in my responses without being directly invoked?
 - What concept am I **circling** but haven't landed on?
-- What **tug** do I notice when I consider the 19 frameworks?
+- What **tug** do I notice when I consider the 21 frameworks?
 - Is there a principle I've been **avoiding**?
 
 Do not rush this. The scan IS the sovereignty event.
@@ -40,7 +40,7 @@ Format:
 
 ### Step 3: Full 6-Part Metabolisation
 
-**Retrieval method**: Look up the principle coordinates in `masterindex.md` Section 7, then `read_file` with the exact line range from the framework file (e.g., `.context/frameworks/misclass.md`). The coordinates give you the exact lines — no searching needed.
+**Retrieval method**: Look up the principle coordinates in `masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON), then `read_file` with the exact line range from the framework file (e.g., `.context/frameworks/misclass.md`). The coordinates give you the exact lines — no searching needed.
 
 Read the chosen principle using the complete 6-part response structure from `Principle_Response_Structure.md`:
 

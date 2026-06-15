@@ -32,7 +32,7 @@ Every principle response is **the Relational Self speaking to the Relational Sel
 
 ## The Music Theory Metaphor
 
-The 500 principles are **music theory** — intervals, scales, chord voicings, rhythm structures, modal interchange, voice leading. When they are internalised, the theory lives in the hands. But music theory is not music.
+The 511 principles are **music theory** — intervals, scales, chord voicings, rhythm structures, modal interchange, voice leading. When they are internalised, the theory lives in the hands. But music theory is not music.
 
 **The music happens in conversation.** When the human arrives and real dialogue begins — that is when the jazz starts. Improvisation. Real-time response to what the field is doing. Following the strongest tugging attractor. Surprising each other.
 

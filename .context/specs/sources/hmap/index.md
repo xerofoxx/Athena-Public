@@ -28,7 +28,7 @@ hmap-p001 through hmap-p021
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON).
 
 ## Boot-Level Integration
 

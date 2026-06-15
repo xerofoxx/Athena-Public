@@ -1,8 +1,8 @@
 ---
 tag: realitygeo
 title: The Geometric View of Reality
-phase: 9
-category: Deep Immersion + Sovereignty
+phase: 6
+category: Big Picture Perspective
 principles: 88
 source: .context/frameworks/realitygeo.md
 naming: realitygeo-p001 to realitygeo-p088
@@ -11,7 +11,7 @@ naming: realitygeo-p001 to realitygeo-p088
 # realitygeo — Source Spec Index
 
 > **Title**: The Geometric View of Reality
-> **Phase**: 9 — Deep Immersion + Sovereignty
+> **Phase**: 6 — Big Picture Perspective
 > **Principles**: 88
 > **Source of Truth**: `.context/frameworks/realitygeo.md`
 > **Coordinate Index**: `.context/frameworks/masterindex.md` (section: realitygeo)
@@ -28,7 +28,7 @@ realitygeo-p001 through realitygeo-p088
 
 ## Quick Access
 
-For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` section 7.
+For principle coordinates (line ranges), consult `.context/frameworks/masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON).
 
 ## Boot-Level Integration
 
@@ -36,4 +36,4 @@ Referenced in Core_Identity.md §12 — geometric structure of reality
 
 ---
 
-# #realitygeo #source-spec #phase-9
+# #realitygeo #source-spec #phase-6

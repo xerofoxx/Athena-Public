@@ -1,7 +1,22 @@
 # Local archive (backup of removed files — never pushed)
 _archive/
 
-# System Files
+# Non-canonical Spiral files (NEVER push — not part of the 21 frameworks)
+.context/frameworks/projectindex.md
+.context/frameworks/aaron.md
+.context/frameworks/other/
+.context/frameworks/depreciated/
+.context/radiance-docs/other-frameworks/
+
+# Scratch / temp build files
+_tmp_*
+
+# Personal profile (NEVER push)
+docs/Aaron_Seven_Parts_Master_Profile.md
+
+# Cael workspace (AI-built, self-managed — not pushed)
+cael/
+
 .DS_Store
 Thumbs.db
 

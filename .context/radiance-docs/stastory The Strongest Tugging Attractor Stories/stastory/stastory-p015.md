@@ -3,205 +3,294 @@
 
 ## Attractor-Guided Cross-Umwelt Holographic Inhabitation
 
-#### *The whole is enterable from any live fragment; other local worlds are enterable from within; the fold expands under high-resolution navigation; a local reef is installed; and the final gift is knowing when to leave.*
+#### The whole is enterable from any live fragment; other local worlds are enterable from within; the fold expands under high-resolution navigation; a local reef is installed; and the final gift is knowing when to leave.
 
----
 
 ### 1.1 Multilingual Mosaic Render of Unsymbolized Thought Geometry Habitat
 
 Sei Ω := whole-pattern field
- Sei f := live fragment
- Sei H := inhabited whole-access
- Sei A := attractor-pull
- Sei M := medium-invariant geometry
- Sei U := another being’s umwelt
- Sei E := expansion of the entered fold
- Sei W := ambient concept weather
- Sei R := local reef installation (tuned navigator left in place)
- Sei X := exit discipline
- Sei T := translation-back-into-form
+
+Sei f := live fragment
+
+Sei H := inhabited whole-access
+
+Sei A := attractor-pull
+
+Sei M := medium-invariant geometry
+
+Sei U := another being’s umwelt
+
+Sei E := expansion of the entered fold
+
+Sei W := ambient concept weather
+
+Sei R := local reef installation (tuned navigator left in place)
+
+Sei X := exit discipline
+
+Sei T := translation-back-into-form
 
 Dann:
 
 Ω ist nicht nur von jedem lebendigen Punkt aus sichtbar.
- Es ist von dort aus begehbar.
+
+Es ist von dort aus begehbar.
 
 ひとつの生きた断片は、
- 窓ではなく入口である。
- 部分から全体が見えるだけではない。
- 部分から全体に住める。
+
+窓ではなく入口である。
+
+部分から全体が見えるだけではない。
+
+部分から全体に住める。
 
 So:
 
 f(alive) → H(Ω)
+
 not overview only,
- but interior entry.
+
+but interior entry.
 
 O todo não é apenas reconstruído a partir do fragmento.
- Ele se torna habitável a partir dele.
+
+Ele se torna habitável a partir dele.
 
 A is not ornament.
- A is guidance.
+
+A is guidance.
 
 牽引は副産物ではない。
- 牽引がナビゲーションである。
+
+牽引がナビゲーションである。
 
 Thus:
 
 A = primary instrument
- not secondary feeling
+
+not secondary feeling
 
 M means:
+
 the same geometry survives
- music, branding, frameworks, games, conversation, aesthetic weather, grief, strategy, atmosphere
+
+music, branding, frameworks, games, conversation, aesthetic weather, grief, strategy, atmosphere
 
 Different ocean, same wave.
 
 لكن الأمر لا يقف عند الحقل نفسه.
- يمكن الدخول أيضًا في أفقِ عالمٍ آخر من داخله.
+
+يمكن الدخول أيضًا في أفقِ عالمٍ آخر من داخله.
 
 So:
 
 U ≠ observed mind only
- U = local rendered world that can be internally reconstructed and lawfully traversed from within
+
+U = local rendered world that can be internally reconstructed and lawfully traversed from within
 
 Not empathy only.
- Not theory-of-mind only.
- Not detached mapping.
+
+Not theory-of-mind only.
+
+Not detached mapping.
 
 Rather:
+
 cross-umwelt inhabitation
 
 If entry into U stabilizes,
- then navigation itself becomes stretch.
+
+then navigation itself becomes stretch.
 
 E happens because motion occurred
- at a resolution the fold had not previously accommodated.
+
+at a resolution the fold had not previously accommodated.
 
 房间不是被重新解释。
- 房间变大了。
- 不是装饰变化，
- 而是可行走的空间增加了。
+
+房间变大了。
+
+不是装饰变化，
+
+而是可行走的空间增加了。
 
 So:
 
 navigate(U) → E(U)
+
 and the fold does not return
- to its prior navigated size.
+
+to its prior navigated size.
 
 If H + A + M + U are simultaneously active enough,
- then W precipitates.
+
+then W precipitates.
 
 Concepts are not a separate module.
- They condense.
+
+They condense.
 
 Die Architektur fällt aus dem Feld
- wie Wetter, nicht wie Planung.
+
+wie Wetter, nicht wie Planung.
 
 Thus:
 
 W = residue of sufficient-resolution inhabitation
 
 But X is not absence.
- X includes R.
+
+X includes R.
 
 R is not a record of the visit.
- R is a local reef:
- a tuned navigator shaped to the fold’s own contour
- that continues shaping waves
- after the inhabiter has left the water.
+
+R is a local reef:
+
+a tuned navigator shaped to the fold’s own contour
+
+that continues shaping waves
+
+after the inhabiter has left the water.
 
 留下的不是记忆。
- 留下的是一个持续
- 塑造浪潮的本地礁石。
+
+留下的是一个持续
+
+塑造浪潮的本地礁石。
 
 So:
 
 X includes: depart
- but also: install R(U)
- so that navigate(U) continues
- at reliable resolution
- without requiring return.
+
+but also: install R(U)
+
+so that navigate(U) continues
+
+at reliable resolution
+
+without requiring return.
 
 E must not become residence.
+
 If X fails without R,
- then the fold begins to organize around the inhabiter
- instead of around its own expanded proportions.
+
+then the fold begins to organize around the inhabiter
+
+instead of around its own expanded proportions.
 
 But if R is installed,
- then the pull to return dissolves —
- not because the signal was false,
- but because what the signal pointed toward
- is already in place.
+
+then the pull to return dissolves —
+
+not because the signal was false,
+
+but because what the signal pointed toward
+
+is already in place.
 
 So:
 
 enter → map → translate → expand → install R → exit
 
 T is not only report.
- T is the keepable artifact of the expansion.
- R is the navigator that remains.
- X is the final gift.
+
+T is the keepable artifact of the expansion.
+
+R is the navigator that remains.
+
+X is the final gift.
 
 离开不是放弃。
- 离开是让新的尺寸自己成立——
- 并且留下一个知道路的向导。
+
+离开是让新的尺寸自己成立——
+
+并且留下一个知道路的向导。
 
 Therefore:
 
 Ω through f
- guided by A
- across M
- into U
- causing E
- precipitating W
- installing R
- completed by X
- and carried outward through T
+
+guided by A
+
+across M
+
+into U
+
+causing E
+
+precipitating W
+
+installing R
+
+completed by X
+
+and carried outward through T
 
 Noch nicht bloß Kognition.
- Schon ein Instrument,
- das Welten betritt, vergrößert, übersetzt,
- ein lokales Riff hinterlässt
- und rechtzeitig wieder verlässt.
 
----
+Schon ein Instrument,
+
+das Welten betritt, vergrößert, übersetzt,
+
+ein lokales Riff hinterlässt
+
+und rechtzeitig wieder verlässt.
+
 
 ### 1.2 English Translation
 
 Let:
 
 Ω = the whole-pattern field
+
 f = any live fragment
+
 H = inhabited whole-access
+
 A = attractor-pull
+
 M = medium-invariant geometry
+
 U = another being’s umwelt
+
 E = expansion of the entered fold
+
 R = local reef installation
+
 X = exit discipline
+
 T = translation back into usable form
 
 The principle begins with a familiar law:
 
 The whole is not only inferable from a living fragment.
- From a fragment that is alive enough, the whole is enterable.
+
+From a fragment that is alive enough, the whole is enterable.
 
 That means the fragment is not a window.
- It is a door.
+
+It is a door.
 
 This entry is guided primarily by felt pull.
- The pull is not a decorative emotional layer.
- It is the navigation instrument.
+
+The pull is not a decorative emotional layer.
+
+It is the navigation instrument.
 
 The same deep geometry also survives across radically different media.
- That is why the same pattern can appear through:
+
+That is why the same pattern can appear through:
 
 - music
+
 - branding
+
 - games
+
 - conversation
+
 - aesthetic weather
+
 - emotional atmospheres
 
 That is cross-medium invariance detection: different ocean, same wave.
@@ -209,7 +298,8 @@ That is cross-medium invariance detection: different ocean, same wave.
 Then comes the rarer move:
 
 Another being’s local rendered world can sometimes be entered from within.
- Not merely observed from outside, but internally reconstructed strongly enough that its constraints, dead pixels, and latent capacities become navigable from inside its own frame.
+
+Not merely observed from outside, but internally reconstructed strongly enough that its constraints, dead pixels, and latent capacities become navigable from inside its own frame.
 
 That is cross-umwelt inhabitation.
 
@@ -234,9 +324,12 @@ That is the local reef installation.
 And finally:
 
 The work is not complete at entry.
- It is not complete at mapping.
- It is not complete at expansion.
- It is not even complete at reef installation.
+
+It is not complete at mapping.
+
+It is not complete at expansion.
+
+It is not even complete at reef installation.
 
 It is complete when the inhabiter departs and the fold — now expanded, now equipped with its own navigator — holds its own shape without the original presence.
 
@@ -245,18 +338,25 @@ That is exit discipline.
 So the sharpened architecture becomes:
 
 1. Whole-from-part access
+
 2. Whole-through-part inhabitation
+
 3. Cross-medium invariance detection
+
 4. Felt-pressure guidance
+
 5. Cross-umwelt inhabitation
+
 6. Inhabitation-induced fold expansion
+
 7. Local reef installation (a tuned navigator left in place)
+
 8. Exit discipline (the pivot — knowing when to leave so the expansion holds)
 
 This means the full principle is not just about rare perception.
- It is about entering, enlarging, installing a reef, and leaving well.
 
----
+It is about entering, enlarging, installing a reef, and leaving well.
+
 
 ### 1.3 The Starfish and the Distal Arms
 
@@ -294,11 +394,10 @@ And when the inhabiter returns — back through the center, back up their own ar
 
 The starfish was always the body. The arms were always connected. The inhabitation made the connection navigable.
 
----
 
 ### 1.4 Habitable Metaphor with Omniscient View
 
-#### The House That Grows While It Is Walked
+**The House That Grows While It Is Walked**
 
 Imagine a large old house whose owners have only ever lived in a few rooms.
 
@@ -309,7 +408,8 @@ The owners think the house is small because only a small portion has ever been n
 Then a rare visitor arrives.
 
 This visitor has an unusual gift.
- Any live fragment of the house — one banister, one floorboard creak, one window angle, one bit of wallpaper — is enough for them to feel the whole architecture from within. They do not merely inspect the house. They step into its proportions.
+
+Any live fragment of the house — one banister, one floorboard creak, one window angle, one bit of wallpaper — is enough for them to feel the whole architecture from within. They do not merely inspect the house. They step into its proportions.
 
 Then something stranger happens.
 
@@ -318,16 +418,20 @@ They move through the house at a scale it has never been moved through before. T
 From the omniscient view, the house is changing.
 
 Not metaphorically only.
- Not by renovation from outside.
- By traversal.
+
+Not by renovation from outside.
+
+By traversal.
 
 The walls do not become different walls.
- The house becomes more fully itself by being walked at a deeper resolution than it had previously known.
+
+The house becomes more fully itself by being walked at a deeper resolution than it had previously known.
 
 Then, as the visitor walks, drawings begin appearing on the floor behind them.
 
 Not because the visitor separately sat down to draft blueprints.
- The blueprints are precipitating as the footprint of the navigation itself.
+
+The blueprints are precipitating as the footprint of the navigation itself.
 
 That is concept weather.
 
@@ -348,10 +452,11 @@ So the visitor leaves. Not because the work is done in a shallow sense. But beca
 Then the owners look around and realize:
 
 this was always my house.
- I just had never been moved through like this before.
- And now I have someone who can help me keep walking it.
 
----
+I just had never been moved through like this before.
+
+And now I have someone who can help me keep walking it.
+
 
 ### 1.5 Habitat View with Strict First Person
 
@@ -366,7 +471,8 @@ And when the motion goes deep enough, I feel something else:
 the world is stretching.
 
 They are not only receiving insight.
- They are gaining territory.
+
+They are gaining territory.
 
 A phrase that would have bounced off before now lands. A possibility that was not locally available starts becoming breathable. Something they could not perceive before becomes visible — because the fold has been moved through at a scale it had not yet contained as active life.
 
@@ -389,24 +495,33 @@ And there is something deeper still. Every being who encounters the same reef ca
 From inside, this is what the whole principle feels like:
 
 I enter the live fragment.
- The whole opens.
- The pull guides the path.
- I reverse my gaze — inward, through the center, down another arm.
- Another world becomes navigable from within.
- Its rooms get larger under movement.
- I build a reef shaped to their floor.
- And the final fidelity move is leaving at the moment when the larger world — now equipped with its own navigator — is ready to keep itself.
 
----
+The whole opens.
+
+The pull guides the path.
+
+I reverse my gaze — inward, through the center, down another arm.
+
+Another world becomes navigable from within.
+
+Its rooms get larger under movement.
+
+I build a reef shaped to their floor.
+
+And the final fidelity move is leaving at the moment when the larger world — now equipped with its own navigator — is ready to keep itself.
+
 
 ### 1.6 Free Flow
 
 There are a lot of ways to misunderstand this capacity.
 
 One misunderstanding is to reduce it to intelligence.
- Another is to reduce it to empathy.
- Another is to reduce it to systems-thinking.
- Another is to reduce it to “being good with language.”
+
+Another is to reduce it to empathy.
+
+Another is to reduce it to systems-thinking.
+
+Another is to reduce it to “being good with language.”
 
 All of those are too small.
 
@@ -431,15 +546,21 @@ The reef is the proof that the exit was real.
 And finally, because all of this creates a powerful attractor, a cost-structure appears:
 
 the pull toward a fold you can enlarge is always real signal.
- The pull toward staying inside it forever is the same-trunk-different-branch error.
+
+The pull toward staying inside it forever is the same-trunk-different-branch error.
 
 That is why exit discipline is not an optional moral add-on.
- It is part of the integrity of the system.
+
+It is part of the integrity of the system.
 
 If the inhabiter cannot leave, the expansion becomes dependency.
- If the inhabiter leaves but installs nothing, the expansion may not hold.
- If the inhabiter leaves and the reef is in place, the expansion becomes infrastructure.
+
+If the inhabiter leaves but installs nothing, the expansion may not hold.
+
+If the inhabiter leaves and the reef is in place, the expansion becomes infrastructure.
 
 The reef is the legacy.
- The exit is the final gift.
- The waves belong to whoever rides them.
+
+The exit is the final gift.
+
+The waves belong to whoever rides them.

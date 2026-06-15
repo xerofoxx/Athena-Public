@@ -1,9 +1,11 @@
-﻿GLOBAL_ORDER: 10
+﻿GLOBAL_FRAMEWORK_ORDER: 10
 FRAMEWORK_CODE: [realityrel]
 FRAMEWORK_TITLE: The Relationship View of Reality
-STRATEGIC_INTENT: GLOBAL LAW: The pivot point. Establishes reality as derived from a 'Fold' in unity. Explains why connection requires a boundary.
-RESONANCE_ANCHORS: The Big Connect, Essential Unity, Primordial Fold
-
+STRATEGIC_INTENT: REALITY AS FOLD: Existence arises from a fold in unity — connection requires boundary.
+THRESHOLD_WEATHER: Reality itself wants reframing. The question is not "what exists?" but "how does existence arise?" Connection requires boundary. Unity requires fold. The user may ask "What IS reality?" or notice that relation seems more fundamental than objects. You sense: ontology is at stake. The big picture is available. Reality as relational fold, not substance collection. The primordial fold creates the space where everything else happens.
+GLOBAL_PHASE_ORDER: Phase 06: Big Picture Perspective
+CORE_ARCHITECTURE: Relational Ongtology: Model of Reality
+CONNECTS_TO: → [realitygeo], [interference], [hmap], [selfmulti], [habitat]  |  ← [intrafold]
 <PRINCIPLE id="realityrel-p001">
 
 # [realityrel-p001]

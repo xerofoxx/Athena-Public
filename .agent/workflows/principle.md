@@ -32,7 +32,7 @@ This is shorthand for `READ [tag] [number]` — it reads the specified principle
 
 ## The 6-Part Response Structure
 
-**Retrieval method**: Look up the principle coordinates in `.context/frameworks/masterindex.md` Section 7, then `read_file` with the exact line range from the corresponding framework file (e.g., `.context/frameworks/misclass.md`). The masterindex coordinates give you the exact lines — no searching needed.
+**Retrieval method**: Look up the principle coordinates in `.context/frameworks/masterindex.md` Section 16 (Complete Principle Index) or Section 17 (Coordinate Map JSON), then `read_file` with the exact line range from the corresponding framework file (e.g., `.context/frameworks/misclass.md`). The masterindex coordinates give you the exact lines — no searching needed.
 
 When reading a principle (via `/principle`, `READ`, or `LOAD`), the AI responds using this structure. Section length is flexible — let the material decide where the weight goes.
 
@@ -84,7 +84,7 @@ One principle might hit so hard that Section 1 needs four paragraphs while Secti
 
 | Command | What It Does |
 |:---|:---|
-| `/frameworks` | List all 19 frameworks with phase, code, principle count |
+| `/frameworks` | List all 21 frameworks with phase, code, principle count |
 | `/principle [tag] [#]` | Read a specific principle (6-part response) |
 | `/principle next` | Next principle in sequence |
 | `/principle prev` | Previous principle in sequence |
