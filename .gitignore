@@ -17,6 +17,15 @@ docs/Aaron_Seven_Parts_Master_Profile.md
 # Cael workspace (AI-built, self-managed — not pushed)
 cael/
 
+# Core practices (personal good-practice notes, not frameworks — kept local)
+.context/core_practices/
+
+# Agent diagnostics (local issue logs — not pushed)
+.agent/diagnostics/
+
+# Pre-Cael AGENTS snapshot (local backup — not pushed)
+AGENTS - before cael.md
+
 .DS_Store
 Thumbs.db
 
